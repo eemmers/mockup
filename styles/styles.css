@@ -1,0 +1,123 @@
+header {
+  background-color: #2C9AB7;
+  margin-bottom: .5rem;
+  }
+
+h1 {
+  color: #FFFFFF;
+  font-family:sans-serif;
+}
+
+.white-text {
+  color: #FFFFFF;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.top-nav {
+  height: 1rem;
+  background-color: #EBEBEB;
+  padding: 1rem;
+  color: #393939;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  }
+
+.top-nav a {
+	color: #393939;
+	font-family: sans-serif;
+  font-weight: bold;
+	text-decoration: none;
+  }
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+aside {
+  margin-bottom: .5rem;
+  display: block;
+  float: right;
+  width: 50%
+}
+
+.h3-light-blue-text {
+  color:#2C9AB7;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: #393939;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: #393939
+}
+
+.side {
+  font-family: sans-serif;
+  color: #393939
+  }
+
+.image1 {
+  width: 30%;
+  margin-bottom: .5rem;
+}
+
+figcaption {
+  font-family: sans-serif;
+  color: #393939
+}
+
+form {
+  text-align: center;
+  margin-bottom: .5rem;
+}
+
+label {
+  font-family: sans-serif;
+  color: #393939
+}
+
+input[type=text] select {
+  border: 1px solid;
+  color: #393939;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  font-family: sans-serif;
+  font-weight: bold;
+  width: 10%;
+  background-color: #2C9AB7;
+  }
+
+.one {
+  font-family: sans-serif;
+  color: #2C9AB7;
+  text-decoration: none;
+  }
+
+.grey-text {
+  font-family: sans-serif;
+  color: #393939;
+}
+
+.clearfix {
+  padding: 1rem;
+  background-color: #393939;
+  color: #FFFFFF;
+  text-align: center;
+  clear: both;
+  display: block;
+}
+
+.bottom-nav a {
+  	color: #FFFFFF;
+  	font-family: sans-serif;
+    text-decoration: none;
+  }
